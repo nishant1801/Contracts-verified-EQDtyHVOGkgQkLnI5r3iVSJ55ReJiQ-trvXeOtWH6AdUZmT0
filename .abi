@@ -1,0 +1,15 @@
+json
+[
+  {
+    "name": "constructor",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "name": "getPrice",
+    "inputs": [],
+    "outputs": [
+      { "name": "price", "type": "uint256" }
+    ]
+  }
+]
